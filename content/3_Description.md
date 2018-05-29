@@ -1,5 +1,7 @@
 
-## [目录](../readme.md)   [<<上一章](./2_Introduction.md) [下一章>>](./4_Structure.md)
+## [返回目录](../readme.md)   [<<上一章](./2_Introduction.md) [下一章>>](./4_Structure.md)
+
+### 3. 产品简介  &nbsp;&nbsp;&nbsp;&nbsp; [<<上一章（文档说明）](./2_Introduction.md) [下一章（产品架构）>>](./4_Structure.md)
 
 - 3.1 产品定位
 
