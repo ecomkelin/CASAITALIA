@@ -1,5 +1,5 @@
 
-## [目录](../readme.md)   [<<上一章](./1_Version.md) [下一章>>](./3_Description.md)
+## [目录](../readme.md)   &nbsp;&nbsp;&nbsp;&nbsp; [<<上一章（版本信息）](./1_Version.md) [下一章（产品简介）>>](./3_Description.md)
 
 ### 2. 文档说明
 
