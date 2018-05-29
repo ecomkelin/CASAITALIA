@@ -1,2 +1,3 @@
 
-## [目录](../readme.md)   [<<上一章](./5_Function.md) [下一章>>](./7_Planning.md)
+## [返回目录](../readme.md)   
+### 6. 非功能需求 [<<上一章（详细功能介绍）](./5_Function.md) [下一章（项目规划）>>](./7_Planning.md)
