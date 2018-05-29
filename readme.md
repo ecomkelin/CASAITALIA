@@ -1,6 +1,4 @@
 # CASAITALIA 产品需求文档
-## 目录
-
 ### [1. 版本信息](./content/1_Version.md)
 - 版本号
 - 修订日期
