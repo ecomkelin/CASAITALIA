@@ -5,3 +5,13 @@
 
 - 4.1 信息结构图
 ![信息机构图](./4_Img/1.jpg)
+
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
