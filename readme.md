@@ -8,7 +8,7 @@
 - 文档简介
 - 文档读者
 - 专业术语
-### [3. 产品简介](./content/3_Descreption.md)
+### [3. 产品简介](./content/3_Description.md)
 - 产品定位
 - 产品特色
 - 用户需求
