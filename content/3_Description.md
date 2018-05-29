@@ -1,5 +1,5 @@
 
-## [目录](../readme.md)   [<<上一张](./2_Introduction.md) [下一章>>](./4_Structure.md)
+## [目录](../readme.md)   [<<上一章](./2_Introduction.md) [下一章>>](./4_Structure.md)
 
 - 3.1 产品定位
 
