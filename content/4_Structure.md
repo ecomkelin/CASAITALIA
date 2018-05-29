@@ -7,14 +7,5 @@
   ![信息机构图](./4_Img/1.jpg)
 #### 4.2 产品结构图
   ![产品结构图](./4_Img/2.jpg)
----
-
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
+#### 4.3 总体流程图
+  ![总体流程图](./4_Img/3.jpg)
