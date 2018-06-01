@@ -4,7 +4,7 @@
 
 #### [4.1 信息结构图](./4_File/1.md)
 
-<img src="./4_Img/1.jpg", alt="信息机构图", width="70%" />
+<img src="./4_Img/1.jpg" alt="信息机构图" width="70%" />
 
 #### [4.2 产品结构图](./4_File/2.md)
 <img src="./4_Img/2.jpg", alt="产品结构图", width="70%">
