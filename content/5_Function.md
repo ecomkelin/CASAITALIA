@@ -1,6 +1,5 @@
 
-## [返回目录](../readme.md)   
-### 5. 详细功能说明 &nbsp;&nbsp;&nbsp;&nbsp; [<<上一章（产品架构）](./4_Structure.md) [下一章（非功能需求）>>](./6_NotFunction.md)
+## [返回目录](../readme.md)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  5. 详细功能说明
 
 #### 5.1 品牌部所需功能
 序号 |      功能模块     |            简单介绍          |      详细说明      |  备注
