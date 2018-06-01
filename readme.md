@@ -8,11 +8,7 @@
 - 订单流程图
 - 总体流程图
 ### [5. 详细功能说明](./content/5_Function.md)
-- 功能列表
 ### [6. 非功能需求](./content/6_NotFunction.md)
-- 性能需求
-- 系统需求
-- 运营需求
 ### [7. 项目规划](./content/7_Planning.md)
 - 时间规划
 - 版本规划
