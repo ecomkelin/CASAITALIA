@@ -1,5 +1,5 @@
 ## [返回目录](../../readme.md)  
-#### scont修改 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
+#### 账单管理 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
 ---
 ###### 需求说明
 - 1 上一小节，我们说过，scont信息全公司都在使用，不能随意修改

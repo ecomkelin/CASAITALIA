@@ -1,5 +1,5 @@
 ## [返回目录](../../readme.md)  
-#### scont核查 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
+#### 询价管理 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
 ---
 ###### 需求说明
 

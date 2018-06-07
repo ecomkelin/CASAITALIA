@@ -1,5 +1,5 @@
 ## [返回目录](../../readme.md)  
-#### scont核查 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
+#### 流水帐 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
 ---
 ###### 需求说明
 - 1 因为全公司员工都要使用，所以必须确保录入信息的正确性

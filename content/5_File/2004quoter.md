@@ -1,5 +1,5 @@
 ## [返回目录](../../readme.md)  
-#### scont修改 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
+#### 订单管理 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
 ---
 ###### 需求说明
 - 1 因为订单是由询价单延申来的，所以里面的产品由谁询问的价格就由谁负责购买

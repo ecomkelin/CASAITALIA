@@ -1,5 +1,5 @@
 ## [返回目录](../../readme.md)  
-#### scont修改 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
+#### 外链发布 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
 ---
 ###### 需求说明
 - 1 查看所有需要发布外链的品牌 产品 文章 列表， 按重要程度排序
