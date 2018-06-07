@@ -9,20 +9,6 @@
 - 5 审核者有个专门的链接 查看未被审核的信息
 ---
 ##### 原型图
-- 添加scont
-<img src="../5_Img/Y3001.jpg" alt="添加scont" width="70%" />
-
-- 添加后scont的详情数据
-<img src="../5_Img/Y3002.jpg" alt="scont详情" width="70%" />
-
-- 检查scont表，没有刚才添加的数据
-<img src="../5_Img/Y3003.jpg" alt="没有刚才添加的数据" width="70%" />
-
-- 审核者，审核
-<img src="../5_Img/Y3004.jpg" alt="审核" width="70%" />
-
-- 通过审核后，scont表出现了
-<img src="../5_Img/Y3005.jpg" alt="通过审核" width="70%" />
 
 ---
 ##### 流程图
