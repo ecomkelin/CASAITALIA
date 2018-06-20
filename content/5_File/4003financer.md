@@ -2,23 +2,21 @@
 #### 流水帐 &nbsp;&nbsp;&nbsp;&nbsp; [返回功能列表](../5_Function.md)
 ###### 字段说明
 
-- 流水帐基本信息 (cheque)
+- 流水帐基本信息 (bill)
 
 	流水帐编号(code)
 
-	兑付日期(honourDate)
+	收支日期(billDate)
 
-	流水帐类型（chequeCategory）<关联流水帐类型数据库>
+	流水帐类型（billCategory）<关联流水帐类型数据库> [比如支票兑付 ozsp转账 HBXD转账 报销 等由财务部自由设定]
 
-	流水帐金额(price)
-	
 	流水帐描述(descript)
+	
+	流水帐金额(price)
 
-	流水帐所属银行(bank)<关联银行数据库>
+	流水帐余额(balance)
 
-	商家(vendor)<关联商家数据库>
-
-	状态 （status)[正常， 标记灰色， 标记黄色， 标记绿色]
+	发票(fattura)
 
 	创建 时间/人 (createAt creater)
 
